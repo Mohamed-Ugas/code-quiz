@@ -21,5 +21,5 @@ var questions = [
 
 ]
 
-// This variable is to keep track which question we are showing the user
-var currentQuestion = 0;
+console.log(questions);
+
